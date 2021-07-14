@@ -1,0 +1,33 @@
+body {
+  padding: 50px;
+  font:"Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+section{
+  display: inline-block;
+  text-align: start;
+  margin: 2em;
+}
+
+.input{
+  font-size: 30px;
+  background: blue;
+  text-align: center;
+  padding: 30px;
+  border: black;
+  border-style: solid;
+}
+
+input[type="text"]{
+  width: 250px;
+  
+}
+
+.display{
+  text-align: center;
+  background: red;
+  font-weight: bold;
+  padding: 30px;
+  border: black;
+  border-style: solid;
+}
