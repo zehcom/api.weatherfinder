@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "root",
+    "password": "MY_DB_PASSWORD",
+    "database": "database_development",
+    "host": "127.0.0.1",
+    "dialect": "postgre",
+    "openWeatherApiKey": "MY_API_KEY"
+  },
+  "test": {
+    "username": "root",
+    "password": "MY_DB_PASSWORD",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "postgre",
+    "openWeatherApiKey": "MY_API_KEY"
+  },
+  "production": {
+    "username": "root",
+    "password": "MY_DB_PASSWORD",
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgre",
+    "openWeatherApiKey": "MY_API_KEY"
+  }
+  
+}
